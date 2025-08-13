@@ -7,6 +7,10 @@ This project, **Amazon Clone**, is a fully functional e-commerce web application
 - Order placement and checkout process
 - Responsive design for mobile and desktop
 
+### Product Images
+
+![Banner](./public/product-image.png "Banner")
+
 ## Live Demo
 
 Check out the live demo of the project [here](https://amazonian-clone.netlify.app).
